@@ -18,3 +18,6 @@ li{
 .nv{
   padding-right: 5px;
 }
+.nv:hover{
+  border-bottom-style: solid;
+}
